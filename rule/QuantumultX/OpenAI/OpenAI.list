@@ -33,6 +33,7 @@ HOST-SUFFIX,segment.io,OpenAI
 HOST-SUFFIX,sentry.io,OpenAI
 HOST-SUFFIX,stripe.com,OpenAI
 HOST-SUFFIX,turn.livekit.cloud,OpenAI
+HOST-SUFFIX,whatismyipaddress.com,OpenAI
 HOST-KEYWORD,openai,OpenAI
 ip-cidr, xx.xx.xxx.xxxx, RELAY-GPT
 final, openaigpt, via-interface=%TUN%
