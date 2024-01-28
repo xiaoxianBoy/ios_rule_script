@@ -32,6 +32,8 @@ HOST-SUFFIX,poe.com,OpenAI
 HOST-SUFFIX,segment.io,OpenAI
 HOST-SUFFIX,sentry.io,OpenAI
 HOST-SUFFIX,stripe.com,OpenAI
+HOST-SUFFIX,openai.com,OpenAI
+HOST-SUFFIX,chat.openai.com,OpenAI
 HOST-SUFFIX,turn.livekit.cloud,OpenAI
 HOST-SUFFIX,whatismyipaddress.com,OpenAI
 HOST-KEYWORD,openai,OpenAI
