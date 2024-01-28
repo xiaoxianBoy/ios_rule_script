@@ -38,4 +38,7 @@ HOST-SUFFIX,turn.livekit.cloud,OpenAI
 HOST-SUFFIX,whatismyipaddress.com,OpenAI
 HOST-KEYWORD,openai,OpenAI
 ip-cidr, 0.0.0.0/0, OpenAI
-final, openaigpt, via-interface=%TUN%
+HOST-SUFFIX, chat.openai.com, openaigpt, via-interface=%TUN%
+HOST-SUFFIX, openai.com, openaigpt, via-interface=%TUN%
+HOST-SUFFIX, stripe.com, openaigpt, via-interface=%TUN%
+HOST-SUFFIX, whatismyipaddress.com, openaigpt, via-interface=%TUN%
